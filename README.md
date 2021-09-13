@@ -1,3 +1,3 @@
 # countdown-timer
 
-https://codepen.io/lady_king/pen/MWooVyd
+https://codepen.io/lady_king/full/MWooVyd
